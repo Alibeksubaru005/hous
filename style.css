@@ -13,7 +13,6 @@
     margin: 0 auto;
     width:  1380px;
     padding:0  20px 0 20px;
-    background-color: aqua;
 }
 .p-text{
     text-align: center;
@@ -241,9 +240,7 @@ font-size: 16px;
 line-height: 24px;
 color: #bdbdbd;
 }
-body{
-    background-color: #000000;
-}
+
 .nature-text-box h4{
     font-weight: 400;
 font-size: 64px;
